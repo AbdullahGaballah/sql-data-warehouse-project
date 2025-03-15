@@ -16,4 +16,4 @@ This project focuses on building a **data warehouse** to support **business inte
 🔹 **Database**: SQL Server / PostgreSQL / MySQL *(Specify your database)*  
 🔹 **ETL Tools**: SQL Procedures, SSIS, or other ETL frameworks  
 🔹 **Data Modeling**: Fact & Dimension Tables, Normalization & Denormalization  
-🔹 **BI Tools**: Power BI, Tableau *(if applicable)*  
+🔹 **BI Tools**: Power BI  
